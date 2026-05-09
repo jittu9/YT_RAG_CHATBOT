@@ -180,6 +180,7 @@ The chatbot is designed to:
 - Multi-video support
 - Source citation support
 - Chat history memory
+- Separating Frontend and Backend using FASTAPI as bridge
 - Streaming responses
 - Docker deployment
 - Authentication layer
@@ -189,7 +190,7 @@ The chatbot is designed to:
 
 # 🧑‍💻 Author
 
-Jitendra D
+Jitendra Damu
 
 ---
 
@@ -305,7 +306,4 @@ logs/
 
 ---
 
-# 📜 License
-
-This project is open-source and available under the MIT License.
 
